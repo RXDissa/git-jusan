@@ -28,14 +28,16 @@
 
 На С++
 
-`#include <iostream>`
+```
+#include <iostream>
 
-`using namespace std;`
+using namespace std;
 
-`int main() {`
-	`cout << 777 << endl;`
-	`return 0;`
-`}`
+int main() {
+	cout << 777 << endl;
+	return 0;
+}
+```
 
 Попробуйте реализовать на Python, Go и JavaScript.
 
@@ -46,7 +48,5 @@
 Платформа | Ссылка | Отвечу за
 Почта |[Ссылка](https://cs11.pikabu.ru/post_img/2020/10/18/9/og_og_1603035993214415222.jpg)| 48 Дней
 LinkedIn  |[Сслыка](https://cs11.pikabu.ru/post_img/2020/10/18/9/og_og_1603035993214415222.jpg)| 48 Дней
-----------|--------|-----------
 WhatsApp  |[Ссылка](https://cs11.pikabu.ru/post_img/2020/10/18/9/og_og_1603035993214415222.jpg)| 48 Дней
-----------|--------|-----------
 telegram  |[Ссылка](https://cs11.pikabu.ru/post_img/2020/10/18/9/og_og_1603035993214415222.jpg)| 48 Дней
