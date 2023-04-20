@@ -20,7 +20,7 @@
 
 На Java
 
-```
+```Java
 class Main {
 	public static void main(String[] args) {
 		System.out.print("777");
@@ -30,7 +30,7 @@ class Main {
 
 На С++
 
-```
+```C++
 #include <iostream>
 
 using namespace std;
